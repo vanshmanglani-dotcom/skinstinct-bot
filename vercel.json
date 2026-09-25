@@ -1,0 +1,6 @@
+{
+  "functions": {
+    "api/webhook.js": { "maxDuration": 120, "includeFiles": "voice-skill.txt" },
+    "api/health.js": { "includeFiles": "voice-skill.txt" }
+  }
+}
